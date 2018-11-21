@@ -1,24 +1,20 @@
 ### TraficPreventer
 
-# Our team 
-1. 
-TraficPreventer
+# Our team - TraficPreventer
 
-2.
-
-Omer Perach 
+- Omer Perach 
 	0506780397 
 	omerperach@gmail.com
 	
-Or Hapaz 
+- Or Hapaz 
 	0546387666 
 	orharpaz1@gmail.com
 	
-Nattyi Akav 
+- Natty Akav 
 	0532825665 
 	nattya01@gmail.com
 	
-Anya Katz 
+- Anya Katz 
 	0525715476 
 	anyakatz63@gmail.com
 	
